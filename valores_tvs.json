@@ -67,7 +67,9 @@
       "Edição das 15": 810,
       "Em Pauta": 4180,
       "Edição das 08h": 680,
-      "Edição das 07h": 680
+      "Edição das 07h": 680,
+      "Especial de Domingo": 15600,
+      "Estúdio i": 6200
     },
     "SporTV 2": {
       "Superliga B De Vôlei Feminino": 12020
@@ -92,7 +94,8 @@
         "Programa do Ratinho": 114388.2,
         "Primeiro Impacto": 24097.5,
         "SBT Brasil": 184945.77,
-        "Repórter SBT": 115025.4
+        "Repórter SBT": 115025.4,
+        "Programa Pé na Estrada": 3852.44
       },
       "SBT Central": {
         "Noticidade": 1158.15,
@@ -205,7 +208,8 @@
         "RedeTV! News": 4082.04,
         "Brasil que Faz": 1850.82,
         "Leitura Dinâmica": 1643.76,
-        "Vou te contar": 1986.9
+        "Vou te contar": 1986.9,
+        "Manhã do Ronnie": 45746
       },
       "TV Thathi": {
         "Thathi Repórter": 1400,
@@ -236,7 +240,8 @@
         "Live CNN": 3870,
         "Jornal da CNN": 14400,
         "CNN Breaking News": 9600,
-        "CNN Brasil": 9600
+        "CNN Brasil": 9600,
+        "CNN PrimeTime": 12000
       },
       "Santa Cecília TV": {
         "Ponto de Vista": 2500,
@@ -272,7 +277,8 @@
         "RC Notícias": 520
       },
       "Jovem Pan": {
-        "JP News": 6825
+        "JP News": 6825,
+        "Morning Show": 6300
       },
       "TV Rede Família": {
         "Tá No Ar Campinas": 2000,
@@ -291,13 +297,32 @@
         "Ponto de Vista": 1200
       },
       "TV Gazeta": {
-        "Jornal da Gazeta": 19500
+        "Jornal da Gazeta": 19500,
+        "Revista da Cidade": 5200
       },
       "TV Canção Nova": {
         "Canção Nova Notícias": 37000
       },
+      "TV Alesp": {
+        "Informe SP": 980
+      },
+      "Assembleia Legislativa do Estado de São Paulo": {
+        "Informe SP": 980
+      },
+      "Tv TVR Pompéia": {
+        "Breaking News": 1200
+      },
+      "TV GOV": {
+        "Canal Gov": 1200
+      },
+      "Canal GOV": {
+        "Canal Gov": 1200
+      },
       "STVI WEBTV": {
         "STVI NO AR": 1800
+      },
+      "TV Folha": {
+        "TV Folha": 273
       },
       "TV Prevê": {
         "Diário do Brasil": 2427
@@ -308,8 +333,15 @@
       "TV Câmara São Paulo": {
         "Espaço Aberto": 320
       },
+      "TV Brasil": {
+        "Repórter São Paulo": 12000,
+        "Repórter Brasil": 12000
+      },
       "TV Paraguaçu": {
         "Paraguaçu Paulista": 1200
+      },
+      "TV Mais - Canal 13": {
+        "Agora Interior": 1158.15
       },
       "Vale TV": {
         "Jornal do Meio-Dia": 2587,
