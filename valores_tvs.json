@@ -260,6 +260,7 @@
         "Jornal da CNN": 14400,
         "CNN Breaking News": 9600,
         "CNN Brasil": 9600,
+        "CNN Brasil Meio Dia": 2760,
         "CNN PrimeTime": 12000
       },
       "Santa Cecília TV": {
@@ -306,6 +307,11 @@
         "Reportagens Especiais": 3500.03
       },
       "Rede Família": {
+        "Ta No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03
+      },
+      "Rede Família Campinas": {
         "Ta No Ar Campinas": 2000,
         "RF News": 2500,
         "Reportagens Especiais": 3500.03
