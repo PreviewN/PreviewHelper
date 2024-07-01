@@ -102,7 +102,8 @@
     },
     "SBT RP": {
       "SBT Verdade": 2300,
-      "SBT Regional Notícias": 2300
+      "SBT Regional Notícias": 2300,
+      "A Voz da População": 3932
     },
     "SBT News": {
       "SBT News na TV": 34530
@@ -126,7 +127,8 @@
         "Noticidade Manhã": 1158.15,
         "SBT Regional Notícias": 1158.15,
         "SBT Regional Notícias Manhã": 1158.15,
-        "Primeiro Impacto": 1158.15
+        "Primeiro Impacto": 1158.15,
+        "A Voz da População": 3932
       },
       "VTV Litoral": {
         "VTV da Gente": 3176,
@@ -134,7 +136,8 @@
       },
       "VTV Campinas": {
         "VTV da Gente": 3176,
-        "Jornal da VTV": 5110.4
+        "Jornal da VTV": 5110.4,
+        "A Voz da População": 3932
       },
       "TV Clube RP": {
         "Jornal da Clube 1ª Edição": 3220,
