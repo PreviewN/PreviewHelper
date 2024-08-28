@@ -196,7 +196,8 @@
         "Fim de Semana BandNews": 1259.2,
         "Jornal da Band": 21100,
         "Primeiro Jornal": 3126,
-        "Entre Nós": 567
+        "Entre Nós": 567,
+        "Jornal Terra Viva": 578.2
       },
       "BandSports": {
         "BandSports News": 535.6
@@ -430,5 +431,8 @@
       },
       "TV Meio Norte": {
         "Brasil 40": 4050
+      },
+      "Nova Brasil FM": {
+        "Nova Manhã": 152
       }
 }
