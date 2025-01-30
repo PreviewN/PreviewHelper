@@ -398,10 +398,12 @@
         "Breaking News": 1200
       },
       "TV GOV": {
-        "Canal Gov": 1200
+        "Canal Gov": 1200,
+        "Brasil em dia": 1200
       },
       "Canal GOV": {
-        "Canal Gov": 1200
+        "Canal Gov": 1200,
+        "Brasil em Dia": 1200
       },
       "STVI WEBTV": {
         "STVI NO AR": 1800
