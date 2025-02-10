@@ -531,7 +531,10 @@
         "Jornal Minas 2ª Edição": 4007
       },
       "TV Paranaíba": {
-        "JP": 4303
+        "JP": 4303,
+        "Balanço Geral": 2744,
+        "Cidade Alerta": 3663,
+        "Fala Povo": 1584
       },
       "TV AgroMais": {
         "Agro Manhã": 3218
@@ -563,5 +566,8 @@
         "SBT Brasília 2ª Edição": 5693,
         "SBT Brasil": 12154,
         "Tá na Hora DF": 5693
+      },
+      "Record TV Goiás": {
+        "GO Record": 9615
       }
 }
