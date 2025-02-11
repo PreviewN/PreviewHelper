@@ -264,8 +264,11 @@
         "Metrópolis": 24100
       },
       "TV Cultura Litoral": {
-        "CAFÉ DA MANHÃ": 5334,
-        "Jornalismo Cultura Litoral": 4743.2
+        "CAFÉ DA MANHÃ": 4743.2,
+        "Jornalismo Cultura Litoral": 4743.2,
+        "Opinião": 4743.2,
+        "Notícias do momento": 4743.2,
+        "Jornal Litoral": 4743.2
       },
       "RedeTV!": {
         "RedeTV! News": 4082.04,
@@ -569,5 +572,11 @@
       },
       "Record TV Goiás": {
         "GO Record": 9615
+      },
+      "NTV Patos de Minas": {
+        "NTV News": 500,
+        "Programa Guy Boa Ventura": 600,
+        "Papo dcast": 350,
+        "30 minutos": 600
       }
 }
