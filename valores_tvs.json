@@ -449,10 +449,12 @@
       "TV Brasil": {
         "Repórter São Paulo": 12000,
         "Repórter Brasil": 12000,
-        "Stadium": 9000
+        "Stadium": 9000,
+        "Brasil Central": 5400
       },
       "TV Brasil Central": {
-        "Jornal Brasil Central": 4743.2
+        "Jornal Brasil Central": 4743.2,
+        "Boa Noite Goiás": 2400
       },
       "TV Paraguaçu": {
         "Paraguaçu Paulista": 1200
