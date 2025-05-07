@@ -82,7 +82,8 @@
       "Bom Dia MG": 3466,
       "MGTV 1ª Edição": 823,
       "MGTV 2ª Edição": 22555,
-      "Jornal Hoje": 10628
+      "Jornal Hoje": 10628,
+      "Hora 1": 36100
     },
     "Globo News": {
       "Edição das 06h": 680,
@@ -656,7 +657,8 @@
         "Jornal Enfoque": 2400
       },
       "TV Assembléia Belo Horizonte": {
-        "Mundo Político": 980
+        "Mundo Político": 980,
+        "Comissão": 980
       },
       "TV Alterosa - Varginha": {
         "Jornal da Alterosa": 4586
