@@ -673,5 +673,11 @@
       },
       "TV Rio Verde": {
         "Rio Verde Jornal 1ª Edição": 8500
+      },
+      "TV Sudoeste Jataí": {
+        "Sudoeste Notícias": 360,
+        "Manhã Notícias": 200,
+        "Cidade Urgente": 250,
+        "Sucesso no Campo": 217.5
       }
 }
