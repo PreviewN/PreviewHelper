@@ -679,5 +679,9 @@
         "Manhã Notícias": 200,
         "Cidade Urgente": 250,
         "Sucesso no Campo": 217.5
+      },
+      "Rede Capital TV": {
+        "Jornal da Capital": 900,
+        "Alerta Goiás": 900
       }
 }
