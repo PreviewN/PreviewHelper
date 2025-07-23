@@ -630,7 +630,8 @@
       "Record TV Goiás": {
         "GO Record": 9615,
         "Balanço Geral": 8105,
-        "GO no Ar": 2478
+        "GO no Ar": 2478,
+        "Cidade Alerta Goiás": 7571
       },
       "NTV Patos de Minas": {
         "NTV News": 500,
@@ -700,5 +701,8 @@
       },
       "PUC TV Goiás": {
         "TJ Goiás": 980
+      },
+      "Globo Brasília": {
+        "DF2": 6948
       }
 }
