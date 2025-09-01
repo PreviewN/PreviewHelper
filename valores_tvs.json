@@ -671,7 +671,11 @@
         "Tá na Hora Rondônia": 2134
       },
       "TV COM - SANTOS": {
-        "Jornal Enfoque": 2400
+        "Jornal Enfoque": 2400,
+        "Hora Geral": 2700
+      },
+      "TV COM - Sorocaba": {
+        "Hora Geral": 2700
       },
       "TV Assembléia Belo Horizonte": {
         "Mundo Político": 980,
@@ -714,6 +718,7 @@
         "DF2": 6948
       }
 }
+
 
 
 
