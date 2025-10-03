@@ -695,7 +695,8 @@
         "Notícias do Bem": 2000
       },
       "Tv Sudoeste": {
-        "Manhã Notícias": 499
+        "Manhã Notícias": 499,
+        "Sudoeste Notícias": 360
       },
       "TV Rio Verde": {
         "Rio Verde Jornal 1ª Edição": 8500,
@@ -728,6 +729,7 @@
         "Rede Notícia": 4743.2
       }
 }
+
 
 
 
