@@ -468,6 +468,9 @@
       "TV Câmara São Paulo": {
         "Espaço Aberto": 320
       },
+      "TV Câmara Campinas": {
+        "Câmara Notícia": 980
+      },
       "TV Brasil": {
         "Repórter São Paulo": 12000,
         "Repórter Brasil": 12000,
@@ -766,8 +769,18 @@
           "The Lady in Number 6": 4008.8,
           "Propaganda": 4008.8,
           "Sesc em Cartaz": 4008.8
-      }
+      },
+    "TV UFMA": {
+      "JTV UFMA": 975,
+      "Giro de Notícias": 975,
+      "Sem Filtro": 975,
+      "Cidadania": 975,
+      "JTV UFMA Destaques": 975,
+      "Propaganda": 975,
+      "Segue o Curso": 975
+    }
 }
+
 
 
 
