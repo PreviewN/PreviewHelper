@@ -679,9 +679,10 @@
       "TV Norte Rondônia": {
         "Tá na Hora Rondônia": 2134
       },
-      "TV COM - SANTOS": {
+      "TV COM - Santos": {
         "Jornal Enfoque": 2400,
-        "Hora Geral": 2700
+        "Hora Geral": 2700,
+        "Cidade em Debate": 500
       },
       "TV COM - Sorocaba": {
         "Hora Geral": 2700
@@ -780,6 +781,7 @@
       "Segue o Curso": 975
     }
 }
+
 
 
 
