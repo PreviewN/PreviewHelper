@@ -1,0 +1,789 @@
+{
+    "Globo São Paulo": {
+      "Bom Dia São Paulo": 27316,
+      "Fantástico": 649900,
+      "Jornal Hoje": 243400,
+      "Bom Dia Brasil": 114200,
+      "SP1": 24875,
+      "SP2": 112730,
+      "Jornal Nacional": 852400,
+      "Jornal da Globo": 69436,
+      "Hora um da notícia": 9993,
+      "Encontro": 105100,
+      "Domingão com Huck": 375200,
+      "Antena Paulista": 3694,
+      "Paulistar": 28880,
+      "Bom Dia Sábado": 13469
+    },
+    "Globo RJ": {
+      "Comunidade": 944,
+      "Bom Dia RJ": 6554,
+      "RJ1": 20241
+    },
+    "Globo": {
+      "Fantástico": 649900,
+      "Jornal Hoje": 243400,
+      "Bom Dia Brasil": 114200,
+      "Jornal Nacional": 852400,
+      "Jornal da Globo": 69436,
+      "Hora um da notícia": 9993,
+      "Encontro": 105100,
+      "Domingão com Huck": 375200,
+      "Antena Paulista": 3694
+    },
+    "EPTV Ribeirão Preto": {
+      "Bom Dia Cidade": 1282,
+      "Jornal da EPTV 1ª Edição": 4050,
+      "Jornal da EPTV 2ª Edição": 9850,
+      "EP Agro": 1815
+    },
+    "EPTV Campinas": {
+      "Bom Dia Brasil": 5033,
+      "Bom Dia Cidade": 2578,
+      "Jornal da EPTV 1ª Edição": 6164,
+      "Jornal da EPTV 2ª Edição": 20752,
+      "EP Agro": 3415,
+      "EPTV CIDADE": 16405
+    },
+    "EPTV Central": {
+      "Bom Dia Cidade": 576,
+      "Jornal da EPTV 1ª Edição": 1853,
+      "Jornal da EPTV 2ª Edição": 4437,
+      "EP Agro": 829
+    },
+    "TV TEM Bauru e Marília": {
+      "Bom Dia Cidade": 925,
+      "TEM Notícias 1ª Edição": 2427,
+      "TEM Notícias 2ª Edição": 5412,
+      "Mais Você": 1298,
+      "Vale a Pena Ver de Novo": 1246
+    },
+    "TV Fronteira": {
+      "Bom Dia Fronteira": 534,
+      "Fronteira Notícias 1ª Edição": 1421,
+      "Fronteira Notícias 2ª Edição": 2456
+    },
+    "TV TEM São José do Rio Preto e Araçatuba": {
+      "Bom Dia Cidade": 1058,
+      "TEM Notícias 1ª Edição": 3243,
+      "TEM Notícias 2ª Edição": 6518
+    },
+    "TV TEM Sorocaba e Jundiaí": {
+      "G1 Notícia": 7258
+    },
+    "TV Tribuna de Santos": {
+      "Bom Dia Região": 1230,
+      "Jornal Tribuna 1ª Edição": 3449,
+      "Jornal Tribuna 2ª Edição": 9501,
+      "Tribuna Esporte": 2138,
+      "Vai Nessa": 1812,
+      "Papo Tribuna": 1708
+    },
+    "RPC Curitiba - Globo": {
+      "Meio Dia Paraná": 9712
+    },
+    "TV Globo Minas": {
+      "Bom Dia MG": 3466,
+      "MGTV 1ª Edição": 823,
+      "MGTV 2ª Edição": 22555,
+      "Jornal Hoje": 10628,
+      "Hora 1": 36100
+    },
+    "Globo News": {
+      "Edição das 06h": 680,
+      "Edição da Meia-Noite": 3440,
+      "Edição 0": 3440,
+      "Edição 16": 995,
+      "Edição das 18": 3545,
+      "Conexão": 5740,
+      "Conexão GloboNews": 5740,
+      "Em Ponto": 680,
+      "Globo News Mais": 760,
+      "Edição das 20h": 3830,
+      "Edição do Meio-Dia": 810,
+      "Edição das 15": 810,
+      "Em Pauta": 4180,
+      "Edição das 08h": 680,
+      "Edição das 07h": 680,
+      "Especial de Domingo": 15600,
+      "Estúdio i": 6200,
+      "Jornal Globo News": 4310,
+      "Jornal GNews": 4310,
+      "J10": 4180
+    },
+    "SporTV 2": {
+      "Superliga B De Vôlei Feminino": 12020,
+      "Superliga Feminina 24/25": 19200
+    },
+    "TV Diário": {
+      "Bom Dia Diário": 627.75,
+      "Diário TV 1ª Edição": 1512,
+      "Diário TV 2ª Edição": 2892,
+      "Diário Comunidade": 464
+    },
+    "SBT RP": {
+      "SBT Verdade": 2300,
+      "SBT Regional Notícias": 2300,
+      "A Voz da População": 3932
+    },
+    "SBT News": {
+      "SBT News na TV": 34530
+    },
+    "SBT Interior": {
+      "Primeiro Impacto Interior": 1824,
+      "SBT Interior 1ª Edição": 1824,
+      "SBT Interior 2ª Edição": 5968.85,
+      "Tá na Hora Interior": 6225,
+      "TH+ Notícias": 3205
+    },
+    "SBT": {
+        "Chega Mais": 48800,
+        "Programa do Ratinho": 114388.2,
+        "Primeiro Impacto": 24097.5,
+        "SBT Brasil": 184945.77,
+        "Tá na Hora": 90400,
+        "Repórter SBT": 115025.4,
+        "Programa Pé na Estrada": 3852.44,
+        "SBT News": 34530,
+        "SBT News manhã": 34530,
+        "SBT Notícias": 27400,
+        "Alô Você": 48800,
+        "SBT Manhã": 29500,
+        "Aqui Agora": 98800
+      },
+      "SBT Central": {
+        "Noticidade": 1158.15,
+        "Noticidade Manhã": 1158.15,
+        "SBT Regional Notícias": 1158.15,
+        "SBT Regional Notícias Manhã": 1158.15,
+        "Primeiro Impacto": 1158.15,
+        "A Voz da População": 3932
+      },
+      "VTV Litoral": {
+        "VTV da Gente": 3176,
+        "Jornal da VTV": 5110.4
+      },
+      "VTV Campinas": {
+        "VTV da Gente": 3176,
+        "Jornal da VTV": 5110.4,
+        "A Voz da População": 3932
+      },
+      "TV Clube RP": {
+        "Jornal da Clube 1ª Edição": 3769,
+        "Jornal da Clube 2ª Edição": 6127,
+        "Programa do Léo": 3038,
+        "Programa do Léo 2ª Edição": 3038,
+        "Programa Igor Oliveira": 3038
+      },
+      "Band Paulista": {
+        "Band Cidade 1ª Edição": 4708,
+        "Band Cidade 2ª Edição": 5403,
+        "Brasil Urgente": 5196,
+        "Band Notícias": 114388.2
+      },
+      "Band Mais Campinas": {
+        "Acontece": 2762,
+        "Band Cidade": 6400,
+        "Band Cidade 2ª Edição": 7958,
+        "Brasil Urgente": 7712,
+        "Bora SP": 1823,
+        "Band Mulher": 3296
+      },
+      "Band": {
+        "Band Cidades Excelentes": 401996,
+        "Bora SP": 7848,
+        "Jornal da Noite": 28397,
+        "Jornal da Band": 79597,
+        "Bora Brasil": 4559,
+        "Boa Tarde São Paulo": 27451,
+        "1o Jornal": 7029,
+        "Band Esporte Clube": 128600
+      },
+      "Band São Paulo": {
+        "Prêmio Band Cidades Excelentes": 401996,
+        "Bora SP": 7848,
+        "Brasil Urgente": 56184,
+        "Jornal da Band": 79597,
+        "Bora Brasil": 4559,
+        "Jornal da Noite": 28397,
+        "Boa Tarde São Paulo": 27451,
+        "Olhar do Repórter": 12390,
+        "+INFO": 23757,
+        "Melhor da Tarde": 27451,
+        "1º Jornal": 7029,
+        "Melhor da Noite": 112736
+      },
+      "Band News": {
+        "Jornal Gente": 1059.6,
+        "Manhã Band News": 1059.6,
+        "Band News no Meio do Dia": 1059.6,
+        "Tarde Band News": 567,
+        "Jornal da Noite": 1199.6,
+        "Madrugada Band News": 578.2,
+        "Jornal Band News - Edição da Noite": 578.2,
+        "Jornal BandNews 1º edição": 486,
+        "Jornal BandNews 2º Edição": 578.2,
+        "Fim de Semana BandNews": 1259.2,
+        "Jornal da Band": 21100,
+        "Primeiro Jornal": 3126,
+        "Entre Nós": 567,
+        "Jornal Terra Viva": 578.2,
+        "No Meio do Dia": 1059.6,
+        "Jornal Band News TV": 7998,
+        "Edição da Noite": 20456
+      },
+      "BandSports": {
+        "BandSports News": 535.6
+      },
+      "Record TV": {
+        "Jornal da Record": 303097,
+        "Fala Brasil": 60938
+      },
+      "Record TV Interior SP": {
+        "Balanço Geral": 2505,
+        "Cidade Alerta Interior": 2463,
+        "SP Record": 2505,
+        "Visita na Record": 1586
+      },
+      "Record TV Paulista": {
+        "Balanço Geral": 2329
+      },
+      "Record TV Litoral / Vale": {
+        "Balanço Geral Litoral": 2656,
+        "Balanço Geral": 3628,
+        "Visita na Record": 2656,
+        "SP Record": 5626
+      },
+      "Record São Paulo": {
+        "Balanço Geral Manhã": 17070,
+        "Cidade Alerta": 42060,
+        "Fala Brasil": 50260,
+        "Hoje em Dia": 36990,
+        "Jornal da Record": 260050,
+        "Domingo Espetacular": 247020,
+        "Balanço Geral": 35560,
+        "JR 24H": 1250
+      },
+      "Record TV Rio Preto": {
+        "Balanço Geral": 2711,
+        "SP Record": 3716
+      },
+      "Record News": {
+        "Hora News": 50260,
+        "News 19 Horas": 22000,
+        "Alerta Brasil": 6450,
+        "Link": 6450,
+        "Conexão Record News": 7000,
+        "Jornal da Record News": 1800,
+        "JR News": 3101,
+        "Brasil Caminhoneiro": 47869
+      },
+      "TV Cultura": {
+        "Jornal da Tarde": 5360,
+        "Esta Manhã": 3920,
+        "Jornal da Cultura": 29470,
+        "Entrelinhas": 1568,
+        "Repórter Cultura": 5383,
+        "Metrópolis": 24100
+      },
+      "TV Cultura Litoral": {
+        "CAFÉ DA MANHÃ": 4743.2,
+        "Jornalismo Cultura Litoral": 4743.2,
+        "Opinião": 4743.2,
+        "Notícias do momento": 4743.2,
+        "Jornal Litoral": 4743.2,
+        "Café com Zaidan": 4743.2
+      },
+      "RedeTV!": {
+        "RedeTV! News": 4082.04,
+        "Brasil que Faz": 1850.82,
+        "Leitura Dinâmica": 1643.76,
+        "Vou te contar": 1986.9,
+        "Manhã do Ronnie": 45746,
+        "A Hora da Ação": 136031,
+        "TV Fama": 239657,
+        "Brasil do Povo": 152800
+      },
+      "TV Thathi Ribeirão Preto": {
+        "Thathi Repórter": 1400,
+        "Thathi Cidade": 2587,
+        "Larga Brasa": 1365,
+        "Hora da Verdade": 1800,
+        "Jornal NovaBrasil": 1700,
+        "Estúdio Thathi": 1619,
+        "Cobertura Agrishow 2024": 1400,
+        "Mentoria": 1389,
+        "TH+ Repórter": 1887,
+        "TH+ Cidade": 1665,
+        "Estúdio TH+": 1329
+      },
+      "TV Thathi Record Campinas": {
+        "Balanço Geral": 2879.4,
+        "Balanço Geral Manhã": 1469.4,
+        "Cidade Alerta": 3780,
+        "Jornal da TV Thathi": 12473,
+        "Tha com Tudo": 4111
+      },
+      "TV Thathi Band Litoral": {
+        "Thathi Cidade": 1509,
+        "Litoral Urgente": 2324,
+        "Band Litoral": 664,
+        "Jornal da Thathi": 11169,
+        "TH+ CIDADE": 1765
+      },
+      "CNN Brasil": {
+        "Agora CNN": 2520,
+        "CNN Novo Dia": 3180,
+        "Novo Dia": 3180,
+        "CNN 360°": 7200,
+        "Visão CNN": 4200,
+        "Live CNN": 3870,
+        "Jornal da CNN": 14400,
+        "CNN Breaking News": 9600,
+        "CNN Brasil": 9600,
+        "CNN Brasil Meio Dia": 2760,
+        "CNN PrimeTime": 12000,
+        "Bastidores CNN": 2760,
+        "CNN Arena": 16000,
+        "CNN Money": 5300
+      },
+      "Santa Cecília TV": {
+        "Ponto de Vista": 2500,
+        "Caderno Regional": 3600,
+        "ACS na TV": 2200,
+        "Hora Geral": 2700,
+        "Bom Dia Cidades": 2200,
+        "OAB no Ar": 2200,
+        "Porto & Negócio": 2800,
+        "Alta Qualidade": 4900
+      },
+      "TV Osasco": {
+        "TV Cioeste": 1600,
+        "TV Osasco Noticias": 1600,
+        "TV Osasco Notícias": 1600
+      },
+      "Alpha Channel TV": {
+        "Alpha Channel News": 1750
+      },
+      "TV Rede Vida": {
+        "MATUTINO": 12000,
+        "VESPERTINO": 25900,
+        "NOTURNO": 37000
+      },
+      "STZ TV": {
+        "STZ Noticias": 562.5
+      },
+      "RIT TV": {
+        "Jornal Das 13h00": 10066.7,
+        "Jornal das 22": 8000
+      },
+      "Terraviva": {
+        "Dia Dia Rural": 1226
+      },
+      "TV Claret": {
+        "RC Notícias": 520,
+        "Notícia 106": 402
+      },
+      "Jovem Pan": {
+        "JP News": 6825,
+        "Morning Show": 6300,
+        "Jornal da Manhã": 6449.4
+      },
+      "TV Jovem Pan News": {
+        "Jovem Pan News": 1050,
+        "Jornal da Manhã": 2930,
+        "JP News": 8116,
+        "Morning Show": 2706
+      },
+      "TV Rede Família": {
+        "Edição Manhã": 2812.5,
+        "Alerta Total": 2531.25,
+        "Tá No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03
+      },
+      "Rede Família": {
+        "Edição Manhã": 2812.5,
+        "Alerta Total": 2531.25,
+        "Ta No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03
+      },
+      "Rede Família Campinas": {
+        "Edição Manhã": 2812.5,
+        "Alerta Total": 2531.25,
+        "Ta No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03,
+        "Boletim de Notícias": 3268.55
+      },
+      "TV Canal 4 Marília": {
+        "4 Notícias": 1200
+      },
+      "TV Cidade Marília": {
+        "Ponto de Vista": 1200
+      },
+      "TV Gazeta": {
+        "Jornal da Gazeta": 19500,
+        "Revista da Cidade": 5200
+      },
+      "TV Canção Nova": {
+        "Canção Nova Notícias": 37000,
+        "Boletim de Notícia": 10095
+      },
+      "TV Alesp": {
+        "Informe SP": 980
+      },
+      "Assembleia Legislativa do Estado de São Paulo": {
+        "Informe SP": 980
+      },
+      "Tv TVR Pompéia": {
+        "Breaking News": 1200
+      },
+      "TV GOV": {
+        "Canal Gov": 1200,
+        "Brasil em dia": 1200
+      },
+      "Canal GOV": {
+        "Canal Gov": 1200,
+        "Brasil em Dia": 1200,
+        "GOV Agora": 980
+      },
+      "STVI WEBTV": {
+        "STVI NO AR": 1800
+      },
+      "TV Folha": {
+        "TV Folha": 273
+      },
+      "TV Prevê": {
+        "Diário do Brasil": 2427,
+        "Diário do Brasil Edição da Noite": 2427
+      },
+      "TV Câmara Bauru": {
+        "Espaço Aberto": 1200
+      },
+      "TV Câmara Assis": {
+        "Câmara em Ação": 1030
+      },
+      "TV Câmara São Paulo": {
+        "Espaço Aberto": 320
+      },
+      "TV Câmara Campinas": {
+        "Câmara Notícia": 980
+      },
+      "TV Brasil": {
+        "Repórter São Paulo": 12000,
+        "Repórter Brasil": 12000,
+        "Stadium": 9000,
+        "Brasil Central": 5400
+      },
+      "TV Brasil Central": {
+        "Jornal Brasil Central": 4743.2,
+        "Boa Noite Goiás": 2400
+      },
+      "TV Paraguaçu": {
+        "Paraguaçu Paulista": 1200
+      },
+      "TV Mais - Canal 13": {
+        "Agora Interior": 1158.15
+      },
+      "Vale TV": {
+        "Jornal do Meio-Dia": 2587,
+        "Cidade News": 1480,
+        "Mais Barretos": 2587
+      },
+      "Rede Alto Tietê TV": {
+        "Alto Tietê News": 3500,
+        "Rede Alto Tietê News": 3500,
+        "Jornal Metrópole": 3500,
+        "Debate em Foco": 3500
+      },
+      "Rede Brasil": {
+        "Brasil News": 4200
+      },
+      "ESPN BRASIL": {
+        "Bola da vez": 8600
+      },
+      "Canal do Boi": {
+        "Canal do Boi News": 2000,
+        "Bom dia produtor.": 1500,
+        "Domingão do Carlão": 7000
+      },
+      "CNT SP": {
+        "CNT Notícias": 2700,
+        "CNT Jornal": 6000
+      },
+      "TVCOM Maceió": {
+        "Seu Jornal": 4437
+      },
+      "TV Meio Norte": {
+        "Brasil 40": 4050,
+        "Programa da Tarde": 800
+      },
+      "Nova Brasil FM": {
+        "Nova Manhã": 152
+      },
+      "TV Portal RC1": {
+        "Esporte e Notícia": 1158.15
+      },
+      "TV Onix": {
+        "Jornal da TV Onix": 575
+      },
+      "Fonte TV": {
+        "Fonte Noticias": 1560
+      },
+      "TV UFSC": {
+        "UFSC Entrevista": 935,
+        "Papo Saúde": 935,
+        "UFSC Cidade Revista": 935,
+        "Minuto saúde digital": 935,
+        "Caminho Verde": 935,
+        "Repórter Brasil": 935,
+        "Sessão Doc": 935
+      },
+      "TV Franca - Canal 23": {
+        "Programa Estilo AP": 1365
+      },
+      "TV Integração - Dos Vales": {
+        "MGTV 1ª Edição": 1015,
+        "MGTV 2ª Edição": 2317,
+        "Bom Dia Minas": 266,
+        "InterTV Notícias": 1015,
+        "Inter TV Notícia": 1015,
+        "InterTV Notícias 2ª Edição": 2317
+      },
+      "TV Integração - Grande Minas": {
+        "Inter TV 1ª Edição": 1514,
+        "InterTV 2ª Edição": 2081,
+        "Bom Dia Minas": 368,
+        "Inter TV Notícia": 379
+      },
+      "TV Integração - Triângulo Mineiro": {
+        "MGTV 1ª Edição": 2563,
+        "MGTV 2ª Edição": 5622,
+        "Bom Dia MG": 501,
+        "Integração Notícia": 644
+      },
+      "TV Integração - Zona da Mata": {
+        "MGTV 2ª Edição": 4270
+      },
+      "O Tempo": {
+        "Tempo News 1ª Edição": 1134,
+        "Tempo News 2ª Edição": 567
+      },
+      "TV Bandeirantes Triângulo": {
+        "Minas Urgente": 2908,
+        "BandCidade 1ª Edição": 1791,
+        "BandCidade 2ª Edição": 4022,
+        "Band Entrevista": 4022
+      },
+      "TV Leste": {
+        "Balanço Geral MG": 1012,
+        "Balanço Geral": 1012,
+        "MG Record": 1426,
+        "Cidade Alerta": 812,
+        "MG no Ar": 389
+      },
+      "Rede Minas": {
+        "Jornal da Cultura": 4007,
+        "Jornal da Inconfidência": 2849,
+        "Jornal Minas 1ª Edição": 4007,
+        "Jornal Minas 2ª Edição": 4007,
+        "Minas em Ação": 4007
+      },
+      "TV Paranaíba": {
+        "JP": 4303,
+        "Balanço Geral": 2744,
+        "Cidade Alerta": 3663,
+        "Fala Povo": 1584
+      },
+      "TV AgroMais": {
+        "Agro Manhã": 3218
+      },
+      "CNBC Brazil - Times Brasil": {
+        "Agora": 5500,
+        "Real Time": 5500,
+        "Money times": 7000,
+        "Radar": 24000,
+        "Jornal Times Brasil": 24000,
+        "Times Brasil": 24000,
+        "Conexão": 18500,
+        "Segredos Corporativos": 18500,
+        "Marcas Icônicas": 18500,
+        "Ciência Para Negócios": 18500,
+        "Passaporte CNBC": 18500,
+        "Life Prime": 18500,
+        "Planeta CNBC": 18500
+      },
+      "Band Minas": {
+        "Boa Tarde Minas": 15850,
+        "Jornal Band Minas": 14925,
+        "Band Cidade 2ª Edição": 2204,
+        "Brasil Urgente Minas": 19095,
+        "Band Cidade": 15850
+      },
+      "TV Alterosa Zona da Mata": {
+        "Tá na Hora Minas": 10436,
+        "Jornal da Alterosa": 10436,
+        "Jornal do Meio Dia": 1966
+      },
+      "Rede Mais Varginha": {
+        "MG no Ar": 2849,
+        "Balanço Geral": 1554
+      },
+      "TV Serra Dourada - SBT Goiás": {
+        "Jornal do Meio Dia": 5641,
+        "Jornal Serra Dourada": 10436,
+        "SBT Notícias": 5641,
+        "Agro Negócio": 8035,
+        "Tá na Hora Goiás": 10436
+      },
+      "SBT Brasília": {
+        "SBT Brasília 1ª Edição": 3077,
+        "SBT Brasília 2ª Edição": 5693,
+        "SBT Brasil": 12154,
+        "Tá na Hora DF": 5693
+      },
+      "Record TV Goiás": {
+        "GO Record": 9615,
+        "Balanço Geral": 8105,
+        "GO no Ar": 2478,
+        "Cidade Alerta Goiás": 7571
+      },
+      "NTV Patos de Minas": {
+        "NTV News": 500,
+        "Programa Guy Boa Ventura": 600,
+        "Papo dcast": 350,
+        "30 minutos": 600
+      },
+      "Tv Anhanguera Goiânia": {
+        "JA 1ª Edição": 6390,
+        "JA 2ª Edição": 12125,
+        "BOM DIA GO": 1694,
+        "Encontro Com Patrícia Poeta": 1570,
+        "Jornal da Globo": 2748
+      },
+      "TV Sucesso - Band Goiânia": {
+        "Brasil Urgente GO": 4102,
+        "Bora Brasil": 1191,
+        "Bandcidade": 5800,
+        "Band Cidade Interior": 5800
+      },
+      "Record TV Minas": {
+        "MG Record": 10970,
+        "MG no Ar": 3447,
+        "Cidade Alerta": 6687,
+        "Balanço Geral MG": 15056,
+        "Brasil Caminhoneiro": 7684
+      },
+      "TV Norte Rondônia": {
+        "Tá na Hora Rondônia": 2134
+      },
+      "TV COM - Santos": {
+        "Jornal Enfoque": 2400,
+        "Hora Geral": 2700,
+        "Cidades em Debate": 500
+      },
+      "TV COM - Sorocaba": {
+        "Hora Geral": 2700
+      },
+      "TV Assembléia Belo Horizonte": {
+        "Mundo Político": 980,
+        "Comissão": 980,
+        "Compacto de Reunião": 980,
+        "Jornalistico": 980,
+        "Assembléia em Destaque": 980
+      },
+      "TV Alterosa - Varginha": {
+        "Jornal da Alterosa": 4586
+      },
+      "Igreja Presbiteriana de Pinheiros": {
+        "Notícias do Bem": 2000
+      },
+      "Tv Sudoeste": {
+        "Manhã Notícias": 499,
+        "Sudoeste Notícias": 360
+      },
+      "TV Rio Verde": {
+        "Rio Verde Jornal 1ª Edição": 8500,
+        "Rio Verde Jornal 2ª Edição": 8500
+      },
+      "TV Sudoeste Jataí": {
+        "Sudoeste Notícias": 360,
+        "Manhã Notícias": 200,
+        "Cidade Urgente": 250,
+        "Sucesso no Campo": 217.5,
+        "Cidade em Foco": 200
+      },
+      "Rede Capital TV": {
+        "Jornal da Capital": 900,
+        "Alerta Goiás": 900
+      },
+      "TV ALTEROSA LESTE": {
+        "Alterosa Alerta": 1513
+      },
+      "PUC TV Goiás": {
+        "TJ Goiás": 980
+      },
+      "Globo Brasília": {
+        "DF2": 6948
+      },
+      "Canal Rural": {
+        "Giro do Boi": 7000
+      },
+      "TV Horizonte": {
+        "Rede Notícia": 4743.2
+      },
+      "Arte 1": {
+          "Arte 1 Em Movimento": 4008.8,
+          "Teatros no Brasil": 4008.8,
+          "MINIDocs": 4008.8,
+          "ARTE 1 NA DANÇA": 4008.8,
+          "ARTE 1 NACIONAL": 4008.8,
+          "ARTE 1 Encontra": 4008.8,
+          "BIO ARTE 1": 4008.8,
+          "SÉRIE: Arte na Tecnologia": 4008.8,
+          "Arte 1 Documenta": 4008.8,
+          "Tela Sobre Tinta": 4008.8,
+          "Hquem": 4008.8,
+          "Arte 1 Apresenta": 4008.8,
+          "Arte 1 Visual": 4008.8,
+          "Arte 1 em Série": 4008.8,
+          "Arte 1 em Preto e Branco": 4008.8,
+          "Arte na Tecnologia": 4008.8,
+          "Cine Clube Arte 1": 4008.8,
+          "Buscando Buskers": 4008.8,
+          "Estilo Arte1": 4008.8,
+          "Especial Arte 1": 4008.8,
+          "Um Artista": 4008.8,
+          "Design da Ciência": 4008.8,
+          "In Concert": 4008.8,
+          "Dancing Casablanca": 4008.8,
+          "Curta Arte1": 4008.8,
+          "Um Show Só": 4008.8,
+          "Agenda Arte 1": 4008.8,
+          "Papo Musical": 4008.8,
+          "Blink": 4008.8,
+          "Hilda Hilst Entre Estações": 4008.8,
+          "Pela Janela": 4008.8,
+          "Baloise Session": 4008.8,
+          "The Lady in Number 6": 4008.8,
+          "Propaganda": 4008.8,
+          "Sesc em Cartaz": 4008.8
+      },
+    "TV UFMA": {
+      "JTV UFMA": 975,
+      "Giro de Notícias": 975,
+      "Sem Filtro": 975,
+      "Cidadania": 975,
+      "JTV UFMA Destaques": 975,
+      "Propaganda": 975,
+      "Segue o Curso": 975
+    },
+    "TV Serra Azul": {
+      "Jornal a nossa voz": 415.16
+    }
+}
+
+
+
