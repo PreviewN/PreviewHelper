@@ -149,7 +149,8 @@
         "SBT Notícias": 27400,
         "Alô Você": 48800,
         "SBT Manhã": 29500,
-        "Aqui Agora": 98800
+        "Aqui Agora": 98800,
+        "Fofocalizando": 94300
       },
       "SBT Central": {
         "Noticidade": 1158.15,
@@ -302,7 +303,8 @@
         "Manhã do Ronnie": 45746,
         "A Hora da Ação": 136031,
         "TV Fama": 239657,
-        "Brasil do Povo": 152800
+        "Brasil do Povo": 152800,
+        "A Tarde é Sua": 12786
       },
       "TV Thathi Ribeirão Preto": {
         "Thathi Repórter": 1400,
@@ -425,7 +427,8 @@
       },
       "TV Gazeta": {
         "Jornal da Gazeta": 19500,
-        "Revista da Cidade": 5200
+        "Revista da Cidade": 5200,
+        "Mulheres": 12350
       },
       "TV Canção Nova": {
         "Canção Nova Notícias": 37000,
@@ -784,6 +787,7 @@
       "Jornal a nossa voz": 415.16
     }
 }
+
 
 
 
