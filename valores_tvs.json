@@ -446,12 +446,14 @@
       },
       "TV GOV": {
         "Canal Gov": 1200,
-        "Brasil em dia": 1200
+        "Brasil em dia": 1200,
+        "bom dia, ministro": 800
       },
       "Canal GOV": {
         "Canal Gov": 1200,
         "Brasil em Dia": 1200,
-        "GOV Agora": 980
+        "GOV Agora": 980,
+        "bom dia, ministro": 800
       },
       "STVI WEBTV": {
         "STVI NO AR": 1800
@@ -797,6 +799,7 @@
       "CETV 1ª Edição": 4961
     }
 }
+
 
 
 
