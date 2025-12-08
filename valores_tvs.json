@@ -559,7 +559,10 @@
         "Bom Dia Minas": 266,
         "InterTV Notícias": 1015,
         "Inter TV Notícia": 1015,
-        "InterTV Notícias 2ª Edição": 2317
+        "InterTV Notícias 2ª Edição": 2317,
+        "Inter 1ª Edição": 1015,
+        "Inter 2ª Edição": 2317,
+        "Bom dia Inter": 266
       },
       "TV Integração - Grande Minas": {
         "Inter TV 1ª Edição": 1514,
@@ -809,6 +812,7 @@
       "Sessão Solene": 880
     }
 }
+
 
 
 
