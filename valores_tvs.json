@@ -451,7 +451,8 @@
       "TV GOV": {
         "Canal Gov": 1200,
         "Brasil em dia": 1200,
-        "bom dia, ministro": 800
+        "bom dia, ministro": 800,
+        "Gov Agora": 680
       },
       "Canal GOV": {
         "Canal Gov": 1200,
@@ -816,6 +817,7 @@
       "Balanço Geral": 4003
     }
 }
+
 
 
 
