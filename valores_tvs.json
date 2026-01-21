@@ -284,7 +284,8 @@
         "Conexão Record News": 7000,
         "Jornal da Record News": 1800,
         "JR News": 3101,
-        "Brasil Caminhoneiro": 47869
+        "Brasil Caminhoneiro": 47869,
+        "Balanço Geral SP": 156
       },
       "TV Cultura": {
         "Jornal da Tarde": 5360,
@@ -823,6 +824,7 @@
       "Bom Dia Rio Grande": 3676
     }
 }
+
 
 
 
