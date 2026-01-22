@@ -436,7 +436,8 @@
       "TV Gazeta": {
         "Jornal da Gazeta": 19500,
         "Revista da Cidade": 5200,
-        "Mulheres": 12350
+        "Mulheres": 12350,
+        "Gazeta News": 19000
       },
       "TV Canção Nova": {
         "Canção Nova Notícias": 37000,
@@ -824,6 +825,7 @@
       "Bom Dia Rio Grande": 3676
     }
 }
+
 
 
 
