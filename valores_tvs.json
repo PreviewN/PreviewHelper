@@ -533,7 +533,8 @@
       },
       "TV Meio Norte": {
         "Brasil 40": 4050,
-        "Programa da Tarde": 800
+        "Programa da Tarde": 800,
+        "Patrulha": 4000
       },
       "Nova Brasil FM": {
         "Nova Manhã": 152
@@ -825,6 +826,7 @@
       "Bom Dia Rio Grande": 3676
     }
 }
+
 
 
 
