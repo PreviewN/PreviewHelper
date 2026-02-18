@@ -729,7 +729,8 @@
       },
       "TV Rio Verde": {
         "Rio Verde Jornal 1ª Edição": 8500,
-        "Rio Verde Jornal 2ª Edição": 8500
+        "Rio Verde Jornal 2ª Edição": 8500,
+        "Cidade em Foco": 200
       },
       "TV Sudoeste Jataí": {
         "Sudoeste Notícias": 360,
@@ -836,6 +837,7 @@
       "Balanço Geral CE": 7115
     }
 }
+
 
 
 
