@@ -537,7 +537,9 @@
       "TV Meio Norte": {
         "Brasil 40": 4050,
         "Programa da Tarde": 800,
-        "Patrulha": 4000
+        "Patrulha": 4000,
+        "Meio News": 5000,
+        "Meio Norte": 5000
       },
       "Nova Brasil FM": {
         "Nova Manhã": 152
@@ -841,5 +843,6 @@
       "EV News": 2000
     }
 }
+
 
 
