@@ -497,7 +497,8 @@
         "Repórter São Paulo": 12000,
         "Repórter Brasil": 12000,
         "Stadium": 9000,
-        "Brasil Central": 5400
+        "Brasil Central": 5400,
+        "Repórter Brasil Tarde": 8000
       },
       "TV Brasil Central": {
         "Jornal Brasil Central": 4743.2,
@@ -854,6 +855,7 @@
       "NOTICIDADE": 3717
     }
 }
+
 
 
 
