@@ -14,7 +14,9 @@
       "Antena Paulista": 3694,
       "Paulistar": 28880,
       "Bom Dia Sábado": 13469,
-      "É de casa": 103400
+      "É de casa": 103400,
+      "Mais Você": 21638,
+      "Dicas do Antena": 4063
     },
     "Globo RJ": {
       "Comunidade": 944,
@@ -33,7 +35,8 @@
       "Antena Paulista": 3694,
       "É de Casa": 103400,
       "Mais Você": 128100,
-      "Hora 1": 37900
+      "Hora 1": 37900,
+      "Bom Dia Sábado": 6753
     },
     "EPTV Ribeirão Preto": {
       "Bom Dia Cidade": 1282,
@@ -165,7 +168,9 @@
         "Aqui Agora": 98800,
         "Fofocalizando": 94300,
         "Se liga Brasil": 9800,
-        "The Noite com Danilo Gentili": 28230
+        "The Noite com Danilo Gentili": 28230,
+        "SBT Noticias Madrugada": 57700,
+        "Domingo Legal": 152300
       },
       "SBT Central": {
         "Noticidade": 1158.15,
@@ -405,7 +410,8 @@
         "Jornal das 22": 8000
       },
       "Terraviva": {
-        "Dia Dia Rural": 1226
+        "Dia Dia Rural": 1226,
+        "Tatersal": 6666
       },
       "TV Claret": {
         "RC Notícias": 520,
@@ -774,7 +780,8 @@
         "Alterosa Alerta": 1513
       },
       "PUC TV Goiás": {
-        "TJ Goiás": 980
+        "TJ Goiás": 980,
+        "Samuray Auto Motors": 900
       },
       "Globo Brasília": {
         "DF2": 6948
@@ -870,7 +877,8 @@
       "Bora MS": 3453
     },
     "TV Sorocaba SBT": {
-      "NOTICIDADE": 3717
+      "NOTICIDADE": 3717,
+      "Tá na Hora": 6225
     },
     "TV A Crítica": {
       "A Crítica Brasil": 2805
