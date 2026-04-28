@@ -235,7 +235,8 @@
         "+INFO": 23757,
         "Melhor da Tarde": 27451,
         "1º Jornal": 7029,
-        "Melhor da Noite": 112736
+        "Melhor da Noite": 112736,
+        "Stock Car": 141800
       },
       "Band News": {
         "Prêmio Band Cidades Excelentes": 401996,
@@ -890,7 +891,8 @@
       "Agenda Cultural": 900
     },
     "TV Tododia": {
-      "2ª EDIÇÃO": 450
+      "2ª EDIÇÃO": 450,
+      "Agenda Cultural": 450
     },
     "Band DF (TV Brasilia)": {
       "Band Cidade": 7400,
