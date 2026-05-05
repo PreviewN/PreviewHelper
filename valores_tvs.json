@@ -896,8 +896,10 @@
     },
     "Band DF (TV Brasilia)": {
       "Band Cidade": 7400,
-      "Jornal da Noite": 2782
-    }
+      "Jornal da Noite": 2782,
+    },
+      "Canal Promessas": {
+        "Jornal da Paz": 900
 }
 
 
